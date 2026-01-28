@@ -85,7 +85,8 @@ ________________________________________
 #### •	Display the subject, marks, and grade.
 #### •	Check whether the student has scored 75 or more marks and print “Distinction” if the condition is satisfied.
 
-### 2. An organization records an employee’s daily attendance for a week using a tuple, where: "P" represents Present, "A" represents Absent 
+## 2. An organization records an employee’s daily attendance for a week using a tuple, where:
+### "P" represents Present, "A" represents Absent 
 ### Write a Python program to:
 #### •	Store the attendance record in a tuple.
 #### •	Count and display the total number of present days.
