@@ -91,5 +91,4 @@ ________________________________________
 #### •	Store the attendance record in a tuple.
 #### •	Count and display the total number of present days.
 #### •	Count and display the total number of absent days.
-#### •	Check whether the employee was absent at least once
-#### •	during the recorded period and display an appropriate message.
+#### •	Check whether the employee was absent at least once during the recorded period and display an appropriate message.
